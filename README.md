@@ -1,0 +1,2 @@
+# shortcuts
+vscode shortcut
