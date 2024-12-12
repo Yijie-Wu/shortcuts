@@ -1,0 +1,3 @@
+VSCODE_SHORTCUTS = [
+
+]
